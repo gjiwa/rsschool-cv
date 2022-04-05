@@ -1,4 +1,4 @@
-[200~#Marchenko Nataliya#
+#Marchenko Nataliya#
 ---
 ##Contacts##
 Location: St.Petersburg, Russia
